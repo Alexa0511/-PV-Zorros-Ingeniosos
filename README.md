@@ -12,3 +12,14 @@ _Gramalote- Norte de santander, Colombia_
 **Rol industria de videojuegos:** Artista de activos
 
 Estudiante de ingenieria multimedia, hago diseño de identidades corporativas e ilustraciones principalmente con estilo manga y cartoon, estoy incursionando en el mundo de la producción y la animación 2D y 3D.
+
+
+ ### **Daniela Patiño**
+
+![Foto de Daniela](.Daniela_P/DanielaPatino.png)
+
+_Villa del Rosario - Norte de santander, Colombia_
+
+**Rol industria de videojuegos:** Diseñadora de niveles
+
+Estudiante de ingenieria multimedia, me encargare de crear los niveles y/o las misiones del videojuego. Tomando en cuenta el arte conceptual y en el documento de diseño del juego (GDD), para crear un entorno creíble, establecer los límites del juego y mantener un estilo coherente con los objetivos del juego.
