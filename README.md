@@ -16,10 +16,7 @@ Estudiante de ingenieria multimedia, hago diseño de identidades corporativas e 
 
  ### **Daniela Patiño**
 
-<img src="https://github.com/Alexa0511/-PV-Zorros-Ingeniosos/tree/Daniela/Daniela_P/DanielaPatino.jpg?raw=true" alt="Logo" width="300" />
-
-![Foto de Daniela](.Daniela_P/DanielaPatino.png)
-
+<img src="https://github.com/Alexa0511/-PV-Zorros-Ingeniosos/blob/Daniela/Daniela_P/DanielaPatino.jpg?raw=true" alt="Logo" width="300" />
 
 _Villa del Rosario - Norte de santander, Colombia_
 
